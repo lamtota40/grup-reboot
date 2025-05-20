@@ -1,0 +1,2 @@
+# grup-reboot
+grub-reboot
